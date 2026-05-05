@@ -1,2 +1,42 @@
-# .github
-The official profile repository for Hive XI. Digital craftsmanship, innovative design, and seamless execution
+# ⚡ Hive XI
+
+### *Digital Craftsmanship | Innovative Design | Seamless Execution*
+
+Welcome to the official GitHub organization of **Hive XI**. We are a forward-thinking digital agency dedicated to building premium web experiences, stunning brand identities, and high-performance mobile applications.
+
+---
+
+### 🚀 What We Do
+- **🎨 UI/UX Design:** User-centric designs that blend aesthetics with functionality.
+- **🌐 Web Development:** Responsive, scalable, and modern web applications.
+- **📱 Mobile Solutions:** High-performance cross-platform mobile apps.
+- **💎 Branding:** Defining unique visual identities that stand out.
+
+---
+
+### 🛠️ Our Tech Stack
+[To be updated by the Team Leads]
+
+---
+
+### 🤝 Work With Us
+We are currently in our **Pre-Development Phase** and are taking on select projects. 
+
+📬 **Contact us:** [hivexi3@gmail.com](mailto:hivexi3@gmail.com)
+📍 **Base:** Nigeria | Remote
+
+---
+
+### 👥 The Founding Team
+- **Favour Ebenezer Maakun** — Founder & CEO
+- **Jesutofunmi Egbewale** — COO
+- **Johnson Mayowa Christopher** — CTO
+- **Ibe Angel Chinenye** — CDO
+- **Elizabeth Richard** — Head of Project Management
+- **Ojo Damilare Oluwafunmibi** — Head of Growth and Social Media
+- **Kajogbola Abdulrahmon Bolaji** — Head of Frontend Development
+- **Gideon Sallem** — Head of Mobile Development
+- **Udeh Josephine** — Head of Brand and Graphic Design
+- **Ikekhuamen Favour Onomeoseme** — Head of Product
+
+*"The future is collaborative. Let's build something extraordinary together."*
