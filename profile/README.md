@@ -29,9 +29,9 @@ We are currently in our **Pre-Development Phase** and are taking on select proje
 
 ### 👥 The Founding Team
 - **Favour Ebenezer Maakun** — Founder & CEO
-- **Jesutofunmi Egbewale** — COO
 - **Johnson Mayowa Christopher** — CTO
 - **Ibe Angel Chinenye** — CDO
+- **Jesutofunmi Egbewale** — COO
 - **Elizabeth Richard** — Head of Project Management
 - **Ojo Damilare Oluwafunmibi** — Head of Growth and Social Media
 - **Kajogbola Abdulrahmon Bolaji** — Head of Frontend Development
