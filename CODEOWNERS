@@ -1,6 +1,6 @@
 # Default fallback - any PR will automatically request review from the main project owner
 
--       @goodnews-code
+-       @goodnews-code @Hive-XI
 
 # -------------------------------------------------------------
 
@@ -10,24 +10,18 @@
 
 # Design & UI (Routes to Angel)
 
-# \*.fig @ibeangel13Design
-
-# \*.svg @ibeangel13Design
-
-# /design/ @ibeangel13Design
+_.fig @ibeangel13Design
+_.svg @ibeangel13Design
+/design/ @ibeangel13Design
 
 # Frontend & Backend Dev (Routes to Johnson)
 
-# \*.js @Johnsyne
-
-# \*.ts @Johnsyne
-
-# \*.tsx @Johnsyne
-
-# /src/ @Johnsyne
+_.js @Johnsyne
+_.ts @Johnsyne
+\*.tsx @Johnsyne
+/src/ @Johnsyne
 
 # Product & Documentation (Routes to Precious/PM)
 
-# \*.md @positiveprecious0-stack
-
-# /docs/ @positiveprecious0-stack
+\*.md @positiveprecious0-stack
+/docs/ @positiveprecious0-stack
