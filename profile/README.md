@@ -1,4 +1,5 @@
-# ⚡ Hive XI
+# <img width="400" height="400" alt="Hive XI" src="https://github.com/user-attachments/assets/f3cb0908-fe8a-42bb-a512-ee353438e9e2" />
+ Hive XI
 
 ### *Digital Craftsmanship | Innovative Design | Seamless Execution*
 
