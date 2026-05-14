@@ -1,0 +1,33 @@
+# Default fallback - any PR will automatically request review from the main project owner
+
+-       @goodnews-code
+
+# -------------------------------------------------------------
+
+# 👥 TEAM LEAD ROUTING (Uncomment and add real GitHub usernames)
+
+# -------------------------------------------------------------
+
+# Design & UI (Routes to Angel)
+
+# \*.fig @ibeangel13Design
+
+# \*.svg @ibeangel13Design
+
+# /design/ @ibeangel13Design
+
+# Frontend & Backend Dev (Routes to Johnson)
+
+# \*.js @Johnsyne
+
+# \*.ts @Johnsyne
+
+# \*.tsx @Johnsyne
+
+# /src/ @Johnsyne
+
+# Product & Documentation (Routes to Precious/PM)
+
+# \*.md @positiveprecious0-stack
+
+# /docs/ @positiveprecious0-stack

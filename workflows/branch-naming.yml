@@ -1,0 +1,22 @@
+name: "Enforce Username Branch Naming"
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+jobs:
+  check-branch-name:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Verify Branch Name Matches Username
+        run: |
+          AUTHOR="${{ github.actor }}"
+          BRANCH_NAME="${{ github.head_ref }}"
+
+          if [[ "$BRANCH_NAME" != "@$AUTHOR/"* ]]; then
+            echo "❌ Error: Branch name '$BRANCH_NAME' is invalid."
+            echo "💡 Your branch must start with your GitHub username preceded by @: '@$AUTHOR/'"
+            echo "✅ Example: @$goodnews-code/init"
+            exit 1
+          fi
+
+          echo "✅ Branch name '$BRANCH_NAME' is valid!"
